@@ -35,7 +35,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/png2jpg-watcher.git
+git clone https://github.com/speefak/png2jpg_watch.sh.git
 cd png2jpg-watcher
 
     Make the script executable:
